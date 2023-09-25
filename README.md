@@ -1,4 +1,5 @@
 Hello Book Club!
+<<<<<<< HEAD
 
 # billu working here
 
@@ -12,3 +13,5 @@ Hello Book Club!
 # laura working here
 
 # Lin working here
+=======
+>>>>>>> cf89c0da58e71bc97f913b09cfc1345af0ec5798
